@@ -65,17 +65,17 @@ Ground truth `PSNR` v.s. our predicted denoising metrics score `SCORE`
 
 |![denoised-image-1](data/ex1_denoised1.png)|
 |:--:|
-| Denoised image 1, PSNR=26.164687, SCORE=27.859165 |
+| Denoised image 1, PSNR=26.165, SCORE=27.859 |
 
 |![denoised-image-2](data/ex1_denoised2.png)|
 |:--:|
-| Denoised image 2, PSNR=25.118766, SCORE=21.513022 |
+| Denoised image 2, PSNR=25.119, SCORE=21.513 |
 
 |![denoised-image-3](data/ex1_denoised3.png)|
 |:--:|
-| Denoised image 3, PSNR=24.654380, SCORE=19.038154 |
+| Denoised image 3, PSNR=24.654, SCORE=19.038 |
 
 |![denoised-image-4](data/ex1_denoised4.png)|
 |:--:|
-| Denoised image 4, PSNR=23.342525, SCORE=17.881230 |
+| Denoised image 4, PSNR=23.343, SCORE=17.881 |
 
