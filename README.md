@@ -46,7 +46,7 @@ output:
 
 
 <figure>
-  <img src="data/ex1_clean.png" alt=".." title="Optional title" />
+  <img src="data/ex1_clean.png" alt=".." title="Optional title1"  height='240' width='360'/>
   <figcaption>Optional title</figcaption>
 </figure>
 
