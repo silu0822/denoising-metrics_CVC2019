@@ -43,7 +43,7 @@ output:
 ```
 
 ### Result
-| ![space-1.jpg](data/ex1_clean.png) | 
+| data/ex1_clean.png | 
 |:--:| 
 | *Space* |
 
