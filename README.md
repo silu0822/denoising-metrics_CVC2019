@@ -57,6 +57,8 @@ output:
 
 <p>
   <img src='data/ex1_clean.png' height='240' width='360'/>
+  <br>
+  <em>Fig. 2: The minimum dominating set of a graph</em>
   <img src='data/ex1_noisy.png' height='240' width='360'/>
   <img src='data/ex1_denoised1.png' height='240' width='360'/> 
   <img src='data/ex1_denoised2.png' height='240' width='360'/> 
