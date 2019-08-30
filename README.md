@@ -11,25 +11,22 @@ For academic use only. All rights reserved to the authors of the paper. If you
 have any questions, comments or suggestions please contact Si Lu at lusi@pdx.edu
 or daniel08220822@gmail.com. Please cite our paper if you use this piece of code.
 
-## Usage
+## Setup
 
-### Setup
-
-#### Compile
-In folder core, run
+Compile: In folder core, run
 ```
 mex srMex.cpp
 ```
-#### Pre-trained model (Too large to uploaded in this repo.)
-Visit http://web.cecs.pdx.edu/~lusi/denoisingMetrics.html to download our code 
-with complete pre_trained Random Forests models, save them into `models` folder.
+Pre-trained model (required to run denoising quality assessment.): Visit 
+http://web.cecs.pdx.edu/~lusi/denoisingMetrics.html to download our code 
+with complete pre_trained Random Forests models.
 
-### Demo
+## Demo
 ```
 usage: demo
 ```
 
-### Image Denoising Quality Assessment
+## Image Denoising Quality Assessment
 ```
 usage: [score,psnr] = denoisingMetrics(noisyImgName, denoisedImgName, cleanImgName);
 input arguments:
@@ -41,7 +38,7 @@ output:
     psnr: ground truth PSNR
 ```
 
-### Image Denoising Quality Feature Computing (single channel input)
+## Image Denoising Quality Feature Computing (single channel input)
 ```
 usage: features = computeFeatures(nImgName, dImgName)
 input arguments:
@@ -51,7 +48,7 @@ output:
     features: feature values (1x19 vector) as presented in our paper
 ```
 
-### Result
+## Result
 
 Ground truth `PSNR` v.s. our predicted denoising metrics score `SCORE`
 
