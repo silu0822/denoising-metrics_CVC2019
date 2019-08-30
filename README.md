@@ -2,6 +2,15 @@
 An implementation of CVC2019 paper: Si Lu, "No-reference Image Denoising Quality 
 Assessment" (http://web.cecs.pdx.edu/~lusi/denoisingMetrics.html) using MATLAB
 
+## Reference
+Si Lu, "No-reference Image Denoising Quality Assessment".
+Computer Vision Conference, CVC 2019, Las Vegas.
+
+## License
+For academic use only. All rights reserved to the authors of the paper. If you
+have any questions, comments or suggestions please contact Si Lu at lusi@pdx.edu
+or daniel08220822@gmail.com. Please cite our paper if you use this piece of code.
+
 ## Usage
 
 ### Setup
@@ -44,24 +53,29 @@ output:
 
 ### Result
 
+Ground truth `PSNR` v.s. our predicted denoising metrics score `SCORE`
 
-<figure>
-  <img src="data/ex1_clean.png" height='240' width='360'/>
-  <figcaption>Optional title</figcaption>
-</figure>
+|![clean-image](data/ex1_clean.png)|
+|:--:|
+| Clean image |
 
+|![noisy-image](data/ex1_noisy.png)|
+|:--:|
+| Noisy image |
 
-<figure>
-  <img src="data/ex1_clean.png" alt=".." title="Optional title" height='240' width='360'/>
-</figure>
+|![denoised-image-1](data/ex1_denoised1.png)|
+|:--:|
+| Denoised image 1, PSNR=26.164687, SCORE=27.859165 |
 
-<p>
-  <img src='data/ex1_clean.png' height='240' width='360'/>
-  <br>
-  <em>Fig. 2: The minimum dominating set of a graph</em>
-  <img src='data/ex1_noisy.png' height='240' width='360'/>
-  <img src='data/ex1_denoised1.png' height='240' width='360'/> 
-  <img src='data/ex1_denoised2.png' height='240' width='360'/> 
-  <img src='data/ex1_denoised3.png' height='240' width='360'/> 
-  <img src='data/ex1_denoised4.png' height='240' width='360'/> 
-</p>
+|![denoised-image-2](data/ex1_denoised2.png)|
+|:--:|
+| Denoised image 2, PSNR=25.118766, SCORE=21.513022 |
+
+|![denoised-image-3](data/ex1_denoised3.png)|
+|:--:|
+| Denoised image 3, PSNR=24.654380, SCORE=19.038154 |
+
+|![denoised-image-4](data/ex1_denoised4.png)|
+|:--:|
+| Denoised image 4, PSNR=23.342525, SCORE=17.881230 |
+
