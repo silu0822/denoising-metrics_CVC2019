@@ -44,11 +44,8 @@ output:
 
 ### Result
 
-<img src="path_to_image" alt>
-    <em>image_caption</em>
-
 <p>
-  <img src='data/ex1_clean.png' height='240' width='360'> 
+  <img src='data/ex1_clean.png' height='240' width='360' alt> <em>image_caption</em>
   <img src='data/ex1_noisy.png' height='240' width='360'>
   <img src='data/ex1_denoised1.png' height='240' width='360'/> 
   <img src='data/ex1_denoised2.png' height='240' width='360'> 
