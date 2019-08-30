@@ -48,10 +48,10 @@ output:
     <em>image_caption</em>
 
 <p>
-  <img src='data/ex1_clean.png' height='360' width='240'/> <em>clean image</em>
-  <img src='data/ex1_noisy.png' height='360' width='240'/> <em>noisy image</em>
-  <img src='data/ex1_denoised1.png' height='360' width='240'/> <em>denoised image 1/ psnr = 26.16/ score = 27.86</em>
-  <img src='data/ex1_denoised2.png' height='360' width='240'/> <em>denoised image 2</em>
-  <img src='data/ex1_denoised3.png' height='360' width='240'/> <em>denoised image 3</em>
-  <img src='data/ex1_denoised4.png' height='360' width='240'/> <em>denoised image 4</em>
+  <img src='data/ex1_clean.png' height='240' width='360'/> 
+  <img src='data/ex1_noisy.png' height='240' width='360'/>
+  <img src='data/ex1_denoised1.png' height='240' width='360'/> 
+  <img src='data/ex1_denoised2.png' height='240' width='360'/> 
+  <img src='data/ex1_denoised3.png' height='240' width='360'/> 
+  <img src='data/ex1_denoised4.png' height='240' width='360'/> 
 </p>
