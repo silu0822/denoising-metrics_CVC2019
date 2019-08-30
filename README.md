@@ -52,7 +52,7 @@ output:
 
 
 <figure>
-  <img src="data/ex1_clean.png" alt=".." title="Optional title" />
+  <img src="data/ex1_clean.png" alt=".." title="Optional title" height='240' width='360'/>
 </figure>
 
 <p>
