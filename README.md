@@ -43,6 +43,8 @@ output:
 ```
 
 ### Result
+![]('data/ex1_clean.png')
+*clean image*
 
 <p>
   <img src='data/ex1_clean.png' height='240' width='360' alt> <em>image_caption</em>
