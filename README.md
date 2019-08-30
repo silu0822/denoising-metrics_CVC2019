@@ -43,7 +43,7 @@ output:
 ```
 
 ### Result
-| ![](data/ex1_clean.png = 360x240)| 
+| ![](data/ex1_clean.png=360x240)| 
 |:--:| 
 | *Space* |
 
