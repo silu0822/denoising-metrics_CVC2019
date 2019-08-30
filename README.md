@@ -43,8 +43,9 @@ output:
 ```
 
 ### Result
-![]('data/ex1_clean.png')
-*clean image*
+| ![space-1.jpg](data/ex1_clean.png) | 
+|:--:| 
+| *Space* |
 
 <p>
   <img src='data/ex1_clean.png' height='240' width='360' alt> <em>image_caption</em>
